@@ -1,7 +1,6 @@
-# :seedling:CodingTest:seedling:
-알고리즘 공부, 코딩테스트 준비 (Java, Python)
+# :pushpin:CodingTest:pushpin:
    
-
+   
 ### :link:**Baekjoon**
 |단계|문제 번호|제목|링크|
 |:---:|:---:|:---:|:---:|
@@ -10,7 +9,7 @@
 |2-3|2753|윤년|[:link:](https://www.acmicpc.net/problem/2753)|
 |2-5|2884|알람 시계|[:link:](https://www.acmicpc.net/problem/2884)|
    
-
+   
 ### :link:**Programmers**
 |난이도|제목|링크|
 |:---:|:---:|:---:|
