@@ -1,7 +1,7 @@
 # :pushpin:CodingTest:pushpin:
    
    
-### :link:**Baekjoon (java)**
+### :link:**Baekjoon (Java)**
 |단계|문제 번호|제목|링크|
 |:---:|:---:|:---:|:---:|
 |1-3|10171|고양이|[:link:](https://www.acmicpc.net/problem/10171)|
