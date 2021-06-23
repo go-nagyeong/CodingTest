@@ -1,7 +1,7 @@
 # :pushpin:CodingTest:pushpin:
    
    
-### :link:**Baekjoon**
+### :link:**Baekjoon (java)**
 |단계|문제 번호|제목|링크|
 |:---:|:---:|:---:|:---:|
 |1-3|10171|고양이|[:link:](https://www.acmicpc.net/problem/10171)|
@@ -10,7 +10,7 @@
 |2-5|2884|알람 시계|[:link:](https://www.acmicpc.net/problem/2884)|
    
    
-### :link:**Programmers**
+### :link:**Programmers (Python)**
 |난이도|제목|링크|
 |:---:|:---:|:---:|
 |Level 1|음양 더하기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/76501)|
