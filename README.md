@@ -17,3 +17,4 @@
 |Level 1|두 정수 사이의 합|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12912)|
 |Level 1|수박수박수박수박수박수?|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12922)|
 |Level 1|같은 숫자는 싫어|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12906)|
+|Level 1|약수의 개수와 덧셈|[:link:](https://programmers.co.kr/learn/courses/30/lessons/77884)|
