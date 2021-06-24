@@ -8,7 +8,7 @@ def solution(a, b):
             answer += i
     return answer
 
-# 다른 방법
+# 더 좋은 방법
 def solution(a, b):
     answer = 0
     if a > b:
