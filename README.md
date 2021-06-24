@@ -18,3 +18,5 @@
 |Level 1|수박수박수박수박수박수?|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12922)|
 |Level 1|같은 숫자는 싫어|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12906)|
 |Level 1|약수의 개수와 덧셈|[:link:](https://programmers.co.kr/learn/courses/30/lessons/77884)|
+|Level 1|2016년|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12901)|
+|Level 1|k번째수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42748)|
