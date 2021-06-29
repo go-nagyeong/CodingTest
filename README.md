@@ -23,3 +23,4 @@
 |Level 1|2016년|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12901)|
 |Level 1|k번째수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42748)|
 |Level 1|3진법 뒤집기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/68935)|
+|Level 1|최대공약수와 최소공배수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12940)|
