@@ -31,3 +31,4 @@
 |Level 1|시저 암호|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12926)|
 |Level 1|문자열 내 마음대로 정렬|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12915)|
 |Level 1|숫자 문자열과 영단어|[:link:](https://programmers.co.kr/learn/courses/30/lessons/81301)|
+|Level 1|소수 찾기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12921)|
