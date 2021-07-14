@@ -10,6 +10,8 @@
 |2-5|2884|알람 시계|[:link:](https://www.acmicpc.net/problem/2884)|
 |3-4|15552|빠른 A+B|[:link:](https://www.acmicpc.net/problem/15552)|
 |3-10|2439|별 찍기-2|[:link:](https://www.acmicpc.net/problem/2439)|
+|4-2|10951|A+B-4|[:link:](https://www.acmicpc.net/problem/10951)|
+
 
    
    
