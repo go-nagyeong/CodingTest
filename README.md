@@ -33,3 +33,4 @@
 |Level 1|숫자 문자열과 영단어|[:link:](https://programmers.co.kr/learn/courses/30/lessons/81301)|
 |Level 1|소수 찾기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/12921)|
 |Level 1|완주하지 못한 선수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42576)|
+|Level 2|기능개발|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42586)|
