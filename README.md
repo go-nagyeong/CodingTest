@@ -35,3 +35,4 @@
 |Level 1|완주하지 못한 선수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42576)|
 |Level 1|모의고사|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42840)|
 |Level 2|기능개발|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42586)|
+|Level 1|크레인 인형뽑기 게임|[:link:](https://programmers.co.kr/learn/courses/30/lessons/64061)|
